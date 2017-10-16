@@ -1,8 +1,8 @@
 ---
 title: My second blog
-layout: post
+layout: blog
 author: tgrief-king
-permalink: /my-second-blog/
+permalink: tobias565.github.io
 source-id: 1FqJtZPJW14l1IPEsAcPIpMXOm6vRHtEAjbFDmrWUY1E
 published: true
 ---
